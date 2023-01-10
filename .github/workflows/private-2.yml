@@ -6,7 +6,3 @@
        steps:    
        - uses: ansh121-private-actions-org-1/private-action-2@main
    
-     call-workflow:
-       uses: ansh121-private-actions-org-1/private-action-2/.github/workflows/called-workflow.yml@main
-       with:
-         username: Shinchan
