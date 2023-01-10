@@ -4,5 +4,5 @@
      build:
        runs-on: ubuntu-latest
        steps:    
-       - uses: ansh121-private-actions-org-1/private-action-2@main
+       - uses: ansh121-private-actions-org-1/private-action-1@main
    
